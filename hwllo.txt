@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 1AAA-D454
+
+ Directory of C:\Users\vaibhava\Desktop\git
+
+21-09-2023  02:17    <DIR>          .
+21-09-2023  02:17    <DIR>          ..
+21-09-2023  00:10               387 hello
+21-09-2023  02:17                 0 hwllo.txt
+21-09-2023  00:36    <DIR>          new
+20-09-2023  23:52             2,126 text.txt
+21-09-2023  00:18    <DIR>          textt.txt
+               3 File(s)          2,513 bytes
+               4 Dir(s)  239,582,298,112 bytes free
